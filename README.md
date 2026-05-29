@@ -1,33 +1,23 @@
-# Carli grub theme
+# Mylastarch grub theme
 
 
 
 
 # Websites
 
-Information : https://arcolinux.info
+Information : https://dccwebsite.com
 
-Tutorials about ArcoLinux iso (Xfce, Openbox and i3) : https://arcolinux.com
-
-Tutorials about ArcoLinuxD iso (any desktop) : https://arcolinuxd.com
-
-Tutorials about ArcoLinuxB iso (any desktop) : https://arcolinuxb.com
-
-Tutorials about Carli project (any desktop) : https://arcolinuxiso.com
-
-Forum : https://arcolinuxforum.com
+Forum : https://dccwebsite.forumotion.com
 
 
 # Social Media
 
-Facebook : https://www.facebook.com/arcolinuxd/
+Facebook : 
 
-Facebook : https://www.facebook.com/groups/arcolinux/
+Twitter  : 
 
-Twitter  : https://twitter.com/arcolinux
+Instagram: 
 
-Instagram: https://www.instagram.com/arcolinux/
+Linked in: 
 
-Linked in: https://www.linkedin.com/in/arcolinux
-
-Youtube  : https://www.youtube.com/erikdubois
+Youtube  : 
